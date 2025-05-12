@@ -22,10 +22,12 @@ const config = {
 
     noIndex: true,
 
+    trailingSlash: false,
+
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: "facebook", // Usually your GitHub org/user name.
-    projectName: "docusaurus", // Usually your repo name.
+    organizationName: "erdav", // Usually your GitHub org/user name.
+    projectName: "gmt-docs", // Usually your repo name.
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
