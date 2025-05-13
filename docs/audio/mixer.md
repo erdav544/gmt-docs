@@ -1,6 +1,4 @@
-# Hello
-
-## Mixer
+# Mixer
 
 Bla bla blaa
 
