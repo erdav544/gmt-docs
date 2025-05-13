@@ -16,6 +16,10 @@ on:
     check_suite:
         types:
             - completed
+    workflow_run:
+        workflows: [Pull Request Labeler, Test deployment]
+        types: [completed]
+
     # status: {}
 jobs:
     automerge:
