@@ -36,13 +36,13 @@ Dokumentasi ini disusun untuk membantu tim multimedia dalam menjalankan tugas te
 
 | Kategori              | Keterangan Singkat                                           |
 |-----------------------|--------------------------------------------------------------|
-| [Audio Team](./category/audio-team)         | Mikrofon, mixer, pengaturan suara.                          |
-| [Video Team](./category/video-team)         | Kamera, pencahayaan, live streaming.                        |
-| [Slides & Presentation](./category/slides-presentation) | Projector, lirik, slide materi.                             |
-| [Inventory & Tools](./category/inventory-tools) | Daftar alat, jadwal perawatan.                             |
-| [Training & Resources](./category/training-resources) | Panduan belajar & link pelatihan.                          |
-| [Miscellaneous](./category/miscellaneous)   | Setup TV, koneksi display, dan hal teknis lainnya.         |
-| [Troubleshooting & FAQ](./category/troubleshooting-faq) | Solusi cepat untuk masalah umum & darurat.                 |
+| [Audio Team](/docs/category/audio-team)         | Mikrofon, mixer, pengaturan suara.                          |
+| [Video Team](/docs/category/video-team)         | Kamera, pencahayaan, live streaming.                        |
+| [Slides & Presentation](/docs/category/slides-presentation) | Projector, lirik, slide materi.                             |
+| [Inventory & Tools](/docs/category/inventory-tools) | Daftar alat, jadwal perawatan.                             |
+| [Training & Resources](/docs/category/training-resources) | Panduan belajar & link pelatihan.                          |
+| [Miscellaneous](/docs/category/miscellaneous)   | Setup TV, koneksi display, dan hal teknis lainnya.         |
+| [Troubleshooting & FAQ](/docs/category/troubleshooting-faq) | Solusi cepat untuk masalah umum & darurat.                 |
 
 ---
 
