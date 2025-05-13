@@ -4,5 +4,5 @@ Documentation:
           - any-glob-to-any-file: docs/*
 
 # Add 'release' label to any PR that is opened against the `main` branch
-auto-merge:
+automerge:
     - base-branch: "main"
