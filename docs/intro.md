@@ -38,11 +38,11 @@ Dokumentasi ini disusun untuk membantu tim multimedia dalam menjalankan tugas te
 |-----------------------|--------------------------------------------------------------|
 | [Audio Team](/docs/category/audio-team)         | Mikrofon, mixer, pengaturan suara.                          |
 | [Video Team](/docs/category/video-team)         | Kamera, pencahayaan, live streaming.                        |
-| [Slides & Presentation](/docs/category/slides-presentation) | Projector, lirik, slide materi.                             |
-| [Inventory & Tools](/docs/category/inventory-tools) | Daftar alat, jadwal perawatan.                             |
-| [Training & Resources](/docs/category/training-resources) | Panduan belajar & link pelatihan.                          |
+| [Slides & Presentation](/docs/category/slides--presentation) | Projector, lirik, slide materi.                             |
+| [Inventory & Tools](/docs/category/inventory--tools) | Daftar alat, jadwal perawatan.                             |
+| [Training & Resources](/docs/category/training--resources) | Panduan belajar & link pelatihan.                          |
 | [Miscellaneous](/docs/category/miscellaneous)   | Setup TV, koneksi display, dan hal teknis lainnya.         |
-| [Troubleshooting & FAQ](/docs/category/troubleshooting-faq) | Solusi cepat untuk masalah umum & darurat.                 |
+| [Troubleshooting & FAQ](/docs/category/troubleshooting--faq) | Solusi cepat untuk masalah umum & darurat.                 |
 
 ---
 
