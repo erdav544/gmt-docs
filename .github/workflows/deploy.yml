@@ -5,6 +5,10 @@ on:
         branches:
             - main
 
+    workflow_run:
+        workflows: [automerge]
+        types: [completed]
+
 jobs:
     build:
         name: Build Docusaurus
