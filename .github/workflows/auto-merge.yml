@@ -17,7 +17,7 @@ on:
         types:
             - completed
     workflow_run:
-        workflows: [Pull Request Labeler]
+        workflows: [Test deployment]
         types: [completed]
 
     # status: {}
