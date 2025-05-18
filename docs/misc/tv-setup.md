@@ -1,8 +1,8 @@
 # TV Setup
 
-1. Aqua
+## 1. Aqua
 
-   ![TV Aqua](/img/img_20250518_155702_crop.jpg)
+![](/img/img_20250518_155702_crop.jpg)
 
 Remote:
 
@@ -16,7 +16,9 @@ Cara Mengaktifkan:
 
 3. Pilih HDMI 1 atau HDMI 2
 
-4. Digitec
+
+
+## 2. Digitec
 
 ![TV Digitec](/img/img_20250518_155733_crop.jpg)
 
@@ -32,10 +34,22 @@ Cara Mengaktifkan:
 
 3. Pilih HDMI 1 atau HDMI 2
 
-4. Sharp
+
+
+## 3. Sharp
 
 ![TV Sharp](/img/img_20250518_165130_crop.jpg)
 
-1. LG
+
+
+## 4. LG
 
 ![TV LG](/img/img_20250518_165200_crop.jpg)
+
+
+
+:::info Info
+
+Untuk TV Aqua, Sharp dan LG, biasanya langsung menyala setelah kabel power dicolok ke stop kontak.
+
+:::
