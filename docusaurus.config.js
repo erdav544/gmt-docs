@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
     title: "GMT Docs",
     tagline: "Guides, Setup, and SOPs for Gratia Multimedia Team",
-    favicon: "img/favicon.ico",
+    favicon: "img/gmt/favicon.ico",
 
     // Set the production url of your site here
     url: "https://gmt-docs.erdav.eu.org",
@@ -86,12 +86,12 @@ const config = {
             },
 
             // Replace with your project's social card
-            image: "img/docusaurus-social-card.jpg",
+            image: "img/gmt/android-chrome-512x512.png",
             navbar: {
                 title: "GMT Docs",
                 logo: {
                     alt: "GMT Logo",
-                    src: "img/logo.svg",
+                    src: "img/gmt/android-chrome-192x192.png",
                 },
                 items: [
                     {
