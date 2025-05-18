@@ -48,7 +48,7 @@ const config = {
                 docs: {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    editUrl: "https://github.com/erdav544/gmt-docs",
+                    editUrl: "https://github.com/erdav544/gmt-docs/tree/main",
                     showLastUpdateAuthor: true,
                     showLastUpdateTime: true,
                     sidebarPath: "./sidebars.js",
@@ -64,10 +64,25 @@ const config = {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            announcementBar: {
+                id: "under_construction",
+                content: "Dokumentasi ini masih dalam tahap pengembangan",
+                backgroundColor: "#fafbfc",
+                textColor: "#091E42",
+                isCloseable: false,
+            },
+
             colorMode: {
                 defaultMode: "dark",
                 disableSwitch: false,
                 respectPrefersColorScheme: true,
+            },
+
+            docs: {
+                sidebar: {
+                    hideable: true,
+                    autoCollapseCategories: true,
+                },
             },
 
             // Replace with your project's social card

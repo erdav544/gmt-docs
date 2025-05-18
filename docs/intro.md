@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Introduction
 ---
 # Selamat Datang di Dokumentasi GMT (Gereja Multimedia Team)
 
