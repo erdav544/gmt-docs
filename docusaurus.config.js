@@ -105,8 +105,10 @@ const config = {
                     //{ to: "/blog", label: "Blog", position: "left" },
                     {
                         href: "https://github.com/erdav544/gmt-docs",
-                        label: "GitHub",
+                        //label: "GitHub",
                         position: "right",
+                        className: "header-github-link",
+                        "aria-label": "GitHub repository",
                     },
                 ],
             },
@@ -117,7 +119,7 @@ const config = {
                         title: "Docs",
                         items: [
                             {
-                                label: "Getting Started",
+                                label: "Introduction",
                                 to: "/docs/intro",
                             },
                         ],
