@@ -70,4 +70,4 @@ Ada yang membutuhkan **phantom power (48V)** dari mixer.
 
 ## 🔗 Terkait
 
-- [Daftar Mikrofon di Inventaris »](../inventory-tools/equipment-list/mics.md)
+- [Daftar Mikrofon di Inventaris](../inventory-tools/equipment-list/mics.md)
