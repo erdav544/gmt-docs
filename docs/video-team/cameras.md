@@ -10,7 +10,7 @@ Dokumen ini menjelaskan panduan penggunaan kamera yang digunakan oleh tim multim
 
 :::note Catatan
 
-&#x20;**📌 Daftar lengkap dan detail spesifikasi kamera dapat dilihat di [Equipment List](../inventory-tools/equipment-list/cameras.md).**
+**📌 Daftar lengkap dan detail spesifikasi kamera dapat dilihat di [Equipment List](../inventory-tools/equipment-list/cameras.md).**
 
 :::
 

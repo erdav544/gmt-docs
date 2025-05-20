@@ -120,11 +120,11 @@ Panduan ini membantu mengidentifikasi dan mengatasi masalah umum yang berkaitan 
 * [ ] OBS menampilkan output ke proyektor
 * [ ] Proyektor menampilkan gambar normal
 
-\:::note Catatan
+:::note Catatan
 
 📝 Checklist ini sebaiknya dilakukan sebelum ibadah atau event dimulai setiap minggu untuk memastikan sistem video siap digunakan.
 
-\:::
+:::
 
 ## 🧪 Tips Tambahan
 

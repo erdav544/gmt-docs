@@ -22,37 +22,37 @@ Dokumen ini berisi panduan perawatan rutin untuk menjaga performa dan usia pakai
 
 ### 🎙️ Mikrofon & Kabel
 
-\[ ] Bersihkan dengan kain microfiber kering
+[ ] Bersihkan dengan kain microfiber kering
 
-\[ ] Hindari melilit kabel terlalu ketat
+[ ] Hindari melilit kabel terlalu ketat
 
-\[ ] Simpan dalam pouch atau rak yang sesuai
+[ ] Simpan dalam pouch atau rak yang sesuai
 
-\[ ] Periksa suara & konektor (noise, putus, konslet)
+[ ] Periksa suara & konektor (noise, putus, konslet)
 
 ### 🎚️ Mixer & Amplifier
 
-\[ ] Pastikan semua knob kembali ke posisi semula setelah penggunaan
+[ ] Pastikan semua knob kembali ke posisi semula setelah penggunaan
 
-\[ ] Jangan biarkan tercolok listrik terlalu lama jika tidak digunakan
+[ ] Jangan biarkan tercolok listrik terlalu lama jika tidak digunakan
 
-\[ ] Bersihkan permukaan dengan blower atau kain lembut
+[ ] Bersihkan permukaan dengan blower atau kain lembut
 
 ### 🔊 Speaker
 
-\[ ] Cek keseimbangan suara (L/R)
+[ ] Cek keseimbangan suara (L/R)
 
-\[ ] Tidak ada suara pecah/distorsi
+[ ] Tidak ada suara pecah/distorsi
 
-\[ ] Posisi aman dan tidak mudah terjatuh
+[ ] Posisi aman dan tidak mudah terjatuh
 
 ### 📽️ Proyektor
 
-\[ ] Bersihkan lensa dengan alat khusus (jangan lap sembarangan)
+[ ] Bersihkan lensa dengan alat khusus (jangan lap sembarangan)
 
-\[ ] Cek suhu saat digunakan — pastikan sirkulasi udara lancar
+[ ] Cek suhu saat digunakan — pastikan sirkulasi udara lancar
 
-\[ ] Gunakan timer shutdown jika tersedia
+[ ] Gunakan timer shutdown jika tersedia
 
 ## 🚨 Tips Tambahan
 
