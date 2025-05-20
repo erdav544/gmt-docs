@@ -1,4 +1,4 @@
-# Mics
+# Panduan Mikrofon
 
 ## 🎯 Tujuan
 
@@ -69,5 +69,7 @@ Ada yang membutuhkan **phantom power (48V)** dari mixer.
 
 
 ## 🔗 Terkait
+
+- [Panduan Mixer](mixer.md)
 
 - [Daftar Mikrofon di Inventaris](../inventory-tools/equipment-list/mics.md)

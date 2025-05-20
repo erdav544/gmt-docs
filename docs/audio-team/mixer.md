@@ -1,6 +1,6 @@
 
 
-# Mixer
+# Panduan Mixer
 
 ## 🎯 Tujuan
 
