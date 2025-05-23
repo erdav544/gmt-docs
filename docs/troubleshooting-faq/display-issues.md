@@ -66,6 +66,12 @@ Panduan ini membantu tim multimedia menyelesaikan permasalahan umum terkait tamp
 
 - Di OBS, cek "Display Capture" → pastikan layar yang dipilih aktif
 
+## ✅ Checklist Sebelum Menampilkan
+* [ ] Sumber tampilan sudah terhubung?
+* [ ] Input TV/proyektor sudah benar?
+* [ ] Resolusi display sudah sesuai? (Rekomendasi: 1280x720 atau 1920x1080)
+* [ ] Tidak ada kabel longgar atau error?
+
 ## 💡 Tips Tambahan
 
 - Gunakan splitter HDMI hanya jika benar-benar dibutuhkan, dan pastikan kualitasnya bagus
