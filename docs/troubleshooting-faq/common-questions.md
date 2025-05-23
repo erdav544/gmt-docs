@@ -1,4 +1,4 @@
-# Pertanyaam Umum
+# Common Questions
 
 Berikut adalah beberapa pertanyaan umum yang sering muncul terkait multimedia di gereja:
 
