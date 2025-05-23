@@ -60,6 +60,6 @@ Berikut adalah beberapa pertanyaan umum yang sering muncul terkait multimedia di
 
 ### 📁 Dimana file rekaman livestream tersimpan?
 
-Secara default di OBS: &#x20;
+Secara default di OBS:
 
-C:\Users\admin\Videos atau This PC → Videos
+`C:\Users\admin\Videos` atau `This PC → Videos`
