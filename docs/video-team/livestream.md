@@ -72,7 +72,13 @@ Dokumen ini berisi panduan operasional untuk pelaksanaan livestream ibadah dan a
 
 ## ✅ Checklist Sebelum Mulai Siaran
 
-
+* [ ] Kamera & kabel HDMI terpasang
+* [ ] Capture card terbaca di OBS
+* [ ] Audio masuk dari mixer
+* [ ] Internet stabil dan cepat
+* [ ] OBS siap dengan layout yang benar
+* [ ] Link/stream key sudah disiapkan
+* [ ] Monitor untuk pantauan siaran
 
 ## 💡 Tips Tambahan
 
