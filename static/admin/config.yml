@@ -1,58 +1,34 @@
 backend:
     name: github
-    repo: "erdav544/gmt-docs"
     branch: main
+    repo: "erdav544/gmt-docs"
     base_url: https://decap-proxy.erdav.eu.org
-    commit_messages:
-        create: Create {{collection}} "{{slug}}"
-        update: Update {{collection}} "{{slug}}"
-        delete: Delete {{collection}} "{{slug}}"
-        uploadMedia: Upload "{{path}}"
-        deleteMedia: Delete "{{path}}"
-        openAuthoring: '{{message}}'
 
-local_backend: true
-
-locale: en
-
-media_folder: "static/img"
-public_folder: "/img"
-
-editor:
-    preview: true
-
-slug:
-    encoding: "ascii"
-    clean_accents: true
-    sanitize_replacement: "_"
+# These lines should *not* be indented
+media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-    - name: docs
-      label: Docs
-      label_singular: Doc
-      folder: docs
+    - name: blog
+      label: "blog"
+      folder: blog
+      identifier_field: title
+      extension: md
+      widget: "list"
       create: true
-      nested:
-          depth: 4
-          summary: "{{title}}"
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
       fields:
-        - label: Sidebar position
-          name: sidebar_position
-          widget: number
-        - label: Title
-          name: title
-          widget: string
-        - label: Description
-          name: description
-          widget: string
-        - label: Image
-          name: image
-          widget: image
-          allow_multiple: false
-        - label: Body
-          name: body
-          widget: markdown
-    sortableFields: ["title", "sidebar_position"]
-    extension: md
-    format: frontmatter
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+          - { name: title, label: Title, widget: string }
+          - { name: body, label: Body, widget: markdown }
+          - { name: slug, label: Slug, widget: string }
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+          - label: "Authors"
+            name: "authors"
+            widget: "list"
+            fields:
+                - { name: name, label: Name, widget: string }
+                - { name: title, label: Title, widget: string }
+                - { name: url, label: URL, widget: string }
+                - { name: imageUrl, label: ImageURL, widget: string }
