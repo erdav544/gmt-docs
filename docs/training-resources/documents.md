@@ -2,7 +2,7 @@
 
 ```mdx-code-block
 <video width="320" height="240" controls>
-  <source src="https://teledrive.skynova.top/api/v1/files/482d5ac6-846a-40a4-b813-baccba57db89?raw=1&dl=1&password=null" type="video/mp4" />
+  <source src="https://1w657p-my.sharepoint.com/personal/erdav_1w657p_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=9e1d668d%2D6cf3%2D4df9%2Db66b%2Db1ee81c8f0cf" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
 ```
