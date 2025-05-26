@@ -1,6 +1,7 @@
 ---
 id: maintenance
 slug: /maintenance
+title: Maintenance
 ---
 
 # 🧰 Perawatan & Pemeliharaan Peralatan

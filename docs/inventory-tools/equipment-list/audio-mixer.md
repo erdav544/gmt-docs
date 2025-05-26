@@ -1,3 +1,7 @@
+---
+title: Audio Mixer
+---
+
 # Audio Mixer
 
 ## 1. ASHLEY ONYX-12 (Primary)

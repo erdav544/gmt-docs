@@ -1,3 +1,7 @@
+---
+title: Display Issues
+---
+
 # Display Issues
 
 Panduan ini membantu tim multimedia menyelesaikan permasalahan umum terkait tampilan pada TV, proyektor, atau monitor lainnya saat ibadah atau acara gereja.

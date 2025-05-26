@@ -1,3 +1,7 @@
+---
+title: Video Issues
+---
+
 # Video Issues
 
 Panduan ini membantu mengidentifikasi dan mengatasi masalah umum yang berkaitan dengan tampilan video selama ibadah atau kegiatan multimedia lainnya.

@@ -1,3 +1,7 @@
+---
+title: Emergency Checklist
+---
+
 # Emergency Checklist
 
 Panduan ini disusun untuk menghadapi kondisi darurat saat pelayanan multimedia berlangsung. Gunakan daftar ini sebagai referensi cepat saat terjadi gangguan.

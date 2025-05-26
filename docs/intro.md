@@ -1,6 +1,7 @@
 ---
 title: Introduction
 ---
+
 # Selamat Datang di Dokumentasi GMT (Gereja Multimedia Team)
 
 Dokumentasi ini disusun untuk membantu tim multimedia dalam menjalankan tugas teknis dan non-teknis di lingkungan pelayanan gereja. Semua panduan, checklist, troubleshooting, dan materi pelatihan dikumpulkan dalam satu tempat agar mudah diakses dan diperbarui.

@@ -1,3 +1,7 @@
+---
+title: Documents
+---
+
 # Documents
 
 ```mdx-code-block

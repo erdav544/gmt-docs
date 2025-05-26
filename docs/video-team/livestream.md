@@ -1,3 +1,7 @@
+---
+title: Livestream
+---
+
 # Livestream
 
 Dokumen ini berisi panduan operasional untuk pelaksanaan livestream ibadah dan acara lainnya di gereja. Tujuannya agar setiap anggota tim multimedia memahami alur, perangkat, dan tugasnya dengan baik.

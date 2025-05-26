@@ -1,3 +1,7 @@
+---
+title: TV Setup
+---
+
 # TV Setup
 
 ## 1. Aqua

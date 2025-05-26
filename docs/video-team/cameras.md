@@ -1,3 +1,7 @@
+---
+title: Cameras
+---
+
 # Cameras
 
 Dokumen ini menjelaskan panduan penggunaan kamera yang digunakan oleh tim multimedia GPIB Gratia Bekasi, termasuk webcam dan handycam. Dokumentasi ini ditujukan untuk memastikan penggunaan perangkat secara efisien dan konsisten dalam pelayanan ibadah maupun kegiatan lainnya.

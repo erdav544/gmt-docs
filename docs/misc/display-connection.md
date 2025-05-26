@@ -1,3 +1,7 @@
+---
+title: Display Connection
+---
+
 # Display Connection
 
 Panduan ini menjelaskan alur dan langkah-langkah dasar dalam menghubungkan tampilan dari sumber ke perangkat display seperti proyektor atau TV, terutama dalam konteks ibadah atau presentasi multimedia.
