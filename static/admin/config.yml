@@ -1,15 +1,15 @@
 backend:
-  name: github
-  repo: "erdav544/gmt-docs"
-  branch: main
-  base_url: https://decap-proxy.erdav.eu.org
-  commit_messages:
-    create: Create {{collection}} “{{slug}}”
-    update: Update {{collection}} “{{slug}}”
-    delete: Delete {{collection}} “{{slug}}”
-    uploadMedia: Upload “{{path}}”
-    deleteMedia: Delete “{{path}}”
-    openAuthoring: '{{message}}'
+    name: github
+    repo: "erdav544/gmt-docs"
+    branch: main
+    base_url: https://decap-proxy.erdav.eu.org
+    commit_messages:
+      create: Create {{collection}} “{{slug}}”
+      update: Update {{collection}} “{{slug}}”
+      delete: Delete {{collection}} “{{slug}}”
+      uploadMedia: Upload “{{path}}”
+      deleteMedia: Delete “{{path}}”
+      openAuthoring: '{{message}}'
 
 local_backend: true
 
@@ -19,44 +19,44 @@ media_folder: "static/img"
 public_folder: "/img"
 
 editor:
-  preview: true
+    preview: true
 
 slug:
-  encoding: "ascii"
-  clean_accents: true
-  sanitize_replacement: "_"
+    encoding: "ascii"
+    clean_accents: true
+    sanitize_replacement: "_"
 
 collections:
-  - name: docs
-    label: Docs
-    label_singular: Doc
-    folder: docs
-    create: true
-    nested:
-      depth: 4
-      summary: "{{title}}"
-    fields:
-      - label: Sidebar position
-        name: sidebar_position
-        widget: number
-      - label: Title
-        name: title
+    - name: docs
+      label: Docs
+      label_singular: Doc
+      folder: docs
+      create: true
+      nested:
+        depth: 4
+        summary: "{{title}}"
+      fields:
+        - label: Sidebar position
+          name: sidebar_position
+          widget: number
+        - label: Title
+          name: title
+          widget: string
+        - label: Description
+          name: description
+          widget: string
+        - label: Image
+          name: image
+          widget: image
+          allow_multiple: false
+        - label: Body
+          name: body
+          widget: markdown
+    sortableFields: ["title", "sidebar_position"]
+    extension: md
+    format: frontmatter
+    meta:
+      path:
         widget: string
-      - label: Description
-        name: description
-        widget: string
-      - label: Image
-        name: image
-        widget: image
-        allow_multiple: false
-      - label: Body
-        name: body
-        widget: markdown
-  sortableFields: ["title", "sidebar_position"]
-  extension: md
-  format: frontmatter
-  meta:
-    path:
-      widget: string
-      label: "Path"
-      index_file: "index"
+        label: "Path"
+        index_file: "index"
