@@ -4,11 +4,11 @@ backend:
     branch: main
     base_url: https://decap-proxy.erdav.eu.org
     commit_messages:
-      create: Create {{collection}} “{{slug}}”
-      update: Update {{collection}} “{{slug}}”
-      delete: Delete {{collection}} “{{slug}}”
-      uploadMedia: Upload “{{path}}”
-      deleteMedia: Delete “{{path}}”
+      create: Create {{collection}} "{{slug}}"
+      update: Update {{collection}} "{{slug}}"
+      delete: Delete {{collection}} "{{slug}}"
+      uploadMedia: Upload "{{path}}"
+      deleteMedia: Delete "{{path}}"
       openAuthoring: '{{message}}'
 
 local_backend: true
